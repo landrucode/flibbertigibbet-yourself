@@ -1,0 +1,14 @@
+{
+  "name": "flibbertigibbet-yourself",
+  "description": "Swaps the verbs shown while Claude thinks for British euphemisms for self-pleasure, plus a few lavatorial ones.",
+  "owner": {
+    "name": "landrucode"
+  },
+  "plugins": [
+    {
+      "name": "flibbertigibbet-yourself",
+      "source": "./",
+      "description": "Swaps the verbs shown while Claude thinks for British euphemisms for self-pleasure, plus a few lavatorial ones."
+    }
+  ]
+}

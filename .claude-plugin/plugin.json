@@ -1,0 +1,17 @@
+{
+  "name": "flibbertigibbet-yourself",
+  "displayName": "Flibbertigibbet Yourself",
+  "version": "0.1.0",
+  "description": "Swaps the verbs shown while Claude thinks for British euphemisms for self-pleasure, plus a few lavatorial ones.",
+  "author": {
+    "name": "landrucode",
+    "email": "dev@landrucode.ai",
+    "url": "https://github.com/landrucode"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/landrucode/flibbertigibbet-yourself",
+  "repository": "https://github.com/landrucode/flibbertigibbet-yourself",
+  "documentationUrl": "https://github.com/landrucode/flibbertigibbet-yourself#readme",
+  "supportUrl": "https://github.com/landrucode/flibbertigibbet-yourself/issues",
+  "privacyPolicyUrl": "https://github.com/landrucode/flibbertigibbet-yourself/blob/main/PRIVACY.md"
+}
