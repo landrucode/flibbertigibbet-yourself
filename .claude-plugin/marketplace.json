@@ -1,6 +1,6 @@
 {
   "name": "flibbertigibbet-yourself",
-  "description": "Swaps the verbs shown while Claude thinks for British euphemisms for self-pleasure, plus a few lavatorial ones.",
+  "description": "Replaces Claude's thinking verbs with risqué euphemisms. Not for kids.",
   "owner": {
     "name": "landrucode"
   },
@@ -8,7 +8,7 @@
     {
       "name": "flibbertigibbet-yourself",
       "source": "./",
-      "description": "Swaps the verbs shown while Claude thinks for British euphemisms for self-pleasure, plus a few lavatorial ones."
+      "description": "Replaces Claude's thinking verbs with risqué euphemisms. Not for kids."
     }
   ]
 }

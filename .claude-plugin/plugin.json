@@ -1,8 +1,8 @@
 {
   "name": "flibbertigibbet-yourself",
   "displayName": "Flibbertigibbet Yourself",
-  "version": "0.1.0",
-  "description": "Swaps the verbs shown while Claude thinks for British euphemisms for self-pleasure, plus a few lavatorial ones.",
+  "version": "0.1.1",
+  "description": "Replaces Claude's thinking verbs with risqué euphemisms. Not for kids.",
   "author": {
     "name": "landrucode",
     "email": "dev@landrucode.ai",
