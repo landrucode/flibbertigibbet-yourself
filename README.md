@@ -2,7 +2,7 @@
 
 Replaces Claude's thinking verbs with risqué euphemisms. Not for kids.
 
-Pondering becomes Polishing the pearl. When the turn ends, the closing line follows suit: Polished the pearl for 12s. Nearly 1,800 phrases, so it rarely repeats itself.
+Pondering becomes Choking the chicken. When the turn ends, the closing line follows suit: Choked the chicken for 12s.
 
 Not one for a shared screen at work.
 

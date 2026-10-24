@@ -1,8 +1,7 @@
 import type { Register } from 'claude-code'
 
 import { EUPHEMISMS } from "./euphemisms"
-
-const random = (): number => Math.floor(Math.random() * EUPHEMISMS.length)
+import { pick } from "./weights"
 
 // One phrase per main-loop turn, so the spinner and the line that closes the
 // turn read as a pair. The spinner (keyed by agent id) and the closing line
@@ -13,11 +12,11 @@ let turnPick: number | undefined
 // back through the transcript does not reshuffle earlier turns.
 const closed = new Map<string, number>()
 
-const current = (): number => (turnPick ??= random())
+const current = (): number => (turnPick ??= pick())
 
 export const register: Register = on => {
   on('turn.start', ($, e, next) => {
-    if (e.agentId === undefined) turnPick = random()
+    if (e.agentId === undefined) turnPick = pick()
     return next(e)
   })
 
