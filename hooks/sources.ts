@@ -43,6 +43,7 @@ export const SOURCED: Readonly<Record<string, number>> = {
   "Answering the call of nature": 15, // Urban Dictionary: answer the call of nature
   "Visiting the throne room": 30, // Urban Dictionary: throne room
   "Going for a Captain's log": 153, // Urban Dictionary: captain s log
+  "Curling one out": 37, // Urban Dictionary: curling one out, curl one out
   "Letting one go": 29, // Urban Dictionary: let one go
   "Having a Jimmy Riddle": 92, // Urban Dictionary: jimmy riddle
   "Buffing the bishop": 29, // Urban Dictionary: buffing the bishop, buff the bishop

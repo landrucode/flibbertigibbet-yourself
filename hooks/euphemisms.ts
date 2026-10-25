@@ -46,6 +46,7 @@ export const EUPHEMISMS: ReadonlyArray<Pair> = [
   ["Answering the call of nature", "Answered the call of nature"],
   ["Visiting the throne room", "Visited the throne room"],
   ["Going for a Captain's log", "Went for a Captain's log"],
+  ["Curling one out", "Curled one out"],
   ["Letting one go", "Let one go"],
   ["Having a Jimmy Riddle", "Had a Jimmy Riddle"],
   // --- verb and object, as recorded ---
