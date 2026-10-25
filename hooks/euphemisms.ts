@@ -39,6 +39,7 @@ export const EUPHEMISMS: ReadonlyArray<Pair> = [
   ["Having a menage a moi", "Had a menage a moi"],
   ["Hitchhiking to Heaven", "Hitchhiked to Heaven"],
   ["Doing a two-finger salute", "Did a two-finger salute"],
+  ["Watering the tulips", "Watered the tulips"],
   // --- lavatorial, to keep the old guard happy ---
   ["Spending a penny", "Spent a penny"],
   ["Dropping the kids off at the pool", "Dropped the kids off at the pool"],
@@ -46,9 +47,11 @@ export const EUPHEMISMS: ReadonlyArray<Pair> = [
   ["Visiting the throne room", "Visited the throne room"],
   ["Going for a Captain's log", "Went for a Captain's log"],
   ["Letting one go", "Let one go"],
+  ["Having a Jimmy Riddle", "Had a Jimmy Riddle"],
   // --- verb and object, as recorded ---
   ["Buffing the bishop", "Buffed the bishop"],
   ["Waxing the weasel", "Waxed the weasel"],
+  ["Greasing the weasel", "Greased the weasel"],
   ["Stroking the one-eyed snake", "Stroked the one-eyed snake"],
   ["Stroking the salami", "Stroked the salami"],
   ["Stroking the sausage", "Stroked the sausage"],

@@ -37,14 +37,17 @@ export const SOURCED: Readonly<Record<string, number>> = {
   "Having a menage a moi": 123, // Urban Dictionary: menage a moi
   "Hitchhiking to Heaven": 0, // web: https://www.craigslist.org/about/best/sfo/9318178.html
   "Doing a two-finger salute": 58, // Urban Dictionary: two finger salute
+  "Watering the tulips": 0, // web: https://www.elitedaily.com/women/women-invent-slang-terms-masturbation-video/1021129
   "Spending a penny": 163, // Urban Dictionary: spend a penny
   "Dropping the kids off at the pool": 1595, // Urban Dictionary: dropping the kids off at the pool, drop the kids off at the pool
   "Answering the call of nature": 15, // Urban Dictionary: answer the call of nature
   "Visiting the throne room": 30, // Urban Dictionary: throne room
   "Going for a Captain's log": 153, // Urban Dictionary: captain s log
   "Letting one go": 29, // Urban Dictionary: let one go
+  "Having a Jimmy Riddle": 92, // Urban Dictionary: jimmy riddle
   "Buffing the bishop": 29, // Urban Dictionary: buffing the bishop, buff the bishop
   "Waxing the weasel": 37, // Urban Dictionary: waxing the weasel
+  "Greasing the weasel": 0, // web: https://melmagazine.com/en-us/story/euphemisms-for-male-masturbation-are-an-endless-natural-resource
   "Stroking the one-eyed snake": 4, // Urban Dictionary: stroking the one eyed snake
   "Stroking the salami": 220, // Urban Dictionary: stroking the salami, stroke the salami
   "Stroking the sausage": 30, // Urban Dictionary: stroking the sausage

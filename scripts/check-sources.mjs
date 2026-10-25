@@ -30,21 +30,13 @@ const UA = { "user-agent": "flibbertigibbet-yourself source check (dev@landrucod
 // exists only as slang for some other sex act does not count, so "Finding
 // Nemo" is not sourced by its Urban Dictionary entry.
 const SELF = /masturbat|masterbat|wank|\bfap|(jerk|jack|jill|toss|beat|whack|rub|crack)(ing|ed|s)? (it |one |yourself |himself |herself |themselves )?(off|out)|self.?pleasur|self.?gratif|onanis/i
-const LOO = /urinat|defecat|toilet|lavatory|\bloo\b|bathroom|restroom|\bfart|flatul|break(ing)? wind|bowel movement|\bpee\b|\bpoo(p)?\b|take a (shit|dump|crap|piss|leak)|\bshit(ting)?\b|\bpiss(ing)?\b/i
+const LOO = /urinat|defecat|toilet|lavatory|\bloo\b|bathroom|restroom|\bfart|flatul|break(ing)? wind|bowel movement|\bpee\b|\bpoo(p)?\b|take a (shit|dump|crap|piss|leak)|\bshit(ting)?\b|\bpiss(ing)?\b|piddl/i
 const MEANS = text => SELF.test(text) || LOO.test(text)
 
 const WEB = {
-  "Polishing the helmet": "https://melmagazine.com/en-us/story/euphemisms-for-male-masturbation-are-an-endless-natural-resource",
-  "Engaging in hand-to-gland combat": "https://abadis.ir/entofa/hand-to-gland-combat/",
-  "Running a manual override": "https://www.craigslist.org/about/best/sfo/9318178.html",
-  "Practising self-love": "https://www.teensource.org/hookup/self-love-self-care",
-  "Rolling the dough": "https://www.autostraddle.com/16-food-related-euphemisms-for-vagina-based-masturbation-235424",
-  "Airing the orchid": "https://www.craigslist.org/about/best/sfo/9318178.html",
-  "Dialling the rotary phone": "https://www.craigslist.org/about/best/sfo/9318178.html",
-  "Letting the fingers do the walking": "https://www.craigslist.org/about/best/sfo/9318178.html",
   "Hitchhiking to Heaven": "https://www.craigslist.org/about/best/sfo/9318178.html",
-  "Waxing the surfboard": "https://greensdictofslang.com/entry/fyllrqq",
-  "Getting its rocks off": "https://www.merriam-webster.com/dictionary/get%20her%20rocks%20off",
+  "Watering the tulips": "https://www.elitedaily.com/women/women-invent-slang-terms-masturbation-video/1021129",
+  "Greasing the weasel": "https://melmagazine.com/en-us/story/euphemisms-for-male-masturbation-are-an-endless-natural-resource",
 }
 
 const cache = existsSync(CACHE) ? JSON.parse(readFileSync(CACHE, "utf8")) : {}
