@@ -1,7 +1,7 @@
 {
   "name": "flibbertigibbet-yourself",
   "displayName": "Flibbertigibbet Yourself",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Replaces Claude's thinking verbs with risqué euphemisms. Not for kids.",
   "author": {
     "name": "landrucode",
